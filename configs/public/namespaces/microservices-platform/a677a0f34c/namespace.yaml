@@ -1,0 +1,4 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: a677a0f34c
